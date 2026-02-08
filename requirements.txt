@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+statsmodels
+pymc
+arviz
+jupyter
+pandas
